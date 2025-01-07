@@ -1,6 +1,6 @@
 ## About
 
-Meublio is a retail platform for pre-loved furniture. 
+Meublio is an eCommerce platform for pre-loved furniture. 
 It allows users to register and login to their account, search for specific products via filters and a search bar, add and remove items from their basket, and place an order.
 
 Visit the project’s frontend repository <a href="https://github.com/annekaftal/plateforme-vente-de-meuble-frontend-react">here</a>.
